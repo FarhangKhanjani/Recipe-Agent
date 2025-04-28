@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Proxy server for AI agent",
   "main": "local-agent-proxy.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "node local-agent-proxy.js"
   },
