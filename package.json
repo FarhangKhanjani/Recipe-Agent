@@ -1,0 +1,12 @@
+{
+  "name": "agent-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for AI agent",
+  "main": "local-agent-proxy.js",
+  "scripts": {
+    "start": "node local-agent-proxy.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
